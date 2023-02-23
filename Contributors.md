@@ -2567,6 +2567,7 @@ Ayan Das
 - [JoLalo](https://github.com/JoLalo)
 - [pranshua7i](https://github.com/pranshua7i)
 - [Opeyemi O.](https://github.com/lekeope)
+- [Théodore L.](https://github.com/122-TheodoreLEHOUX)
 - [Star-ho](https://github.com/Star-ho)
 - [SyntaxSavvy](https://github.com/SyntaxSavvy)
 - [mimmydev](https://github.com/mimmydev)
